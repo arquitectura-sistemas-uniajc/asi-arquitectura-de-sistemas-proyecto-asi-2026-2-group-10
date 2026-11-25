@@ -1,0 +1,25 @@
+{
+  "grupo": 4,
+  "slug": "envioya",
+  "nombre": "EnvíoYa",
+  "dominio": "Domicilios con seguimiento en tiempo real",
+  "lema": "Cada pedido con un domiciliario disponible, en tiempo real.",
+  "color": "#d23b3b",
+  "recurso": {
+    "plural": "Domiciliarios",
+    "singular": "Domiciliario",
+    "nombre": "Domiciliario",
+    "detalle": "Vehículo y zona",
+    "categoria": "Tipo",
+    "cantidad": "Pedidos que puede tomar"
+  },
+  "accion": {
+    "boton": "Asignar pedido",
+    "plural": "Envíos",
+    "persona": "Cliente",
+    "modo": "descontar",
+    "unico": false,
+    "anonimo": false,
+    "monto": null
+  }
+}
